@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+    <item android:id="@+id/config" android:title="@string/config" android:icon="@android:drawable/ic_menu_preferences" app:showAsAction="always"/>
+    <item android:id="@+id/info" android:title="@string/info" android:icon="@android:drawable/ic_menu_info_details" app:showAsAction="always"/>
+    <item android:id="@+id/about" android:title="@string/about" android:icon="@android:drawable/ic_menu_help" app:showAsAction="always"/>
+</menu>

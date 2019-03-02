@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppComponentes2</string>
+    <string name="nombre">Digite su nombre</string>
+    <string name="config">Configuration</string>
+    <string name="info">Information</string>
+    <string name="about">About</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppListas</string>
+    <string name="title_activity_my_list_adapter">MyListAdapter</string>
+</resources>

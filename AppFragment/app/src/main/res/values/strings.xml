@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppFragment</string>
+    <string-array name="provincias">
+        <item>San Jose</item>
+        <item>Heredia</item>
+        <item>Alajuela</item>
+        <item>Cartago</item>
+        <item>Guanacaste</item>
+        <item>Puntarenas</item>
+        <item>Limon</item>
+    </string-array>
+</resources>
